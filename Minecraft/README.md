@@ -1,0 +1,1 @@
+This is a secure file. This file password is 'infected'
